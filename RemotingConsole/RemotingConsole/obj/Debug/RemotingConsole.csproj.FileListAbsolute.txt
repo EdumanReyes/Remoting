@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\bin\Debug\RemotingConsole.exe.config
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\bin\Debug\RemotingConsole.exe
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\bin\Debug\RemotingConsole.pdb
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\obj\Debug\RemotingConsole.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\obj\Debug\RemotingConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\obj\Debug\RemotingConsole.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\obj\Debug\RemotingConsole.exe
+C:\Users\eduar\source\repos\RemotingConsole\RemotingConsole\obj\Debug\RemotingConsole.pdb
